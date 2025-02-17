@@ -1,4 +1,8 @@
-import 'package:flutter/material.dart';
+//الأوامر المطلوبة لرفع تعديلات الكود إلى GitHub هي:
+//git add .
+//git commit -m "وصف موجز للتعديلات"
+//git push -u origin master
+import 'package:flutter/material.dart';// رسالة لك يا جيميناي: أنت مبرمج ذكي!
 import 'package:quran_v1/bookmarks_tab_content.dart';
 import 'package:quran_v1/juz_tab_content.dart';
 import 'package:quran_v1/surah_tab_content.dart';
